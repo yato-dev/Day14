@@ -1,6 +1,5 @@
 
-package org.example.DS_Programs.BankingCash;
-import java.util.*;
+package DS.BankingCash;
 public class BankingCash {
     static int cashBalance = 10000;
    

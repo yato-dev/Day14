@@ -1,4 +1,4 @@
-package org.example.DS_Programs.BankingCash;
+package DS.BankingCash;
 class Queue {
     private int front, rear, size;
     private int capacity;
